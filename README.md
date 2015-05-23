@@ -1,4 +1,4 @@
-# lading page
+# landing page
 
 參加第七屆 Hackathon Taiwan, Node.js 工作坊所寫的網頁
 其主要工具為 Node.JS, Jade
